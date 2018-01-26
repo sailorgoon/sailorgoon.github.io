@@ -16,13 +16,12 @@ div {
 }
 
 .main {
-  padding-left: 30px;
+  padding-left: 70px;
   min-width: 75%;
 }
 
 .about {
   background-color: Turquoise;
-  max-width: 50%;
-  min-width: 140px;
+  min-width: 200px;
   flex: 1;
 }
