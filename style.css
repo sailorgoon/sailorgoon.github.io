@@ -5,21 +5,11 @@ html, body {
   height: 100%;
 }
 
-p {
-  font-size: 16px
-  padding-left: 30px
-}
-
-ul {
-  font-size: 16px
-}
+h5 {
+  padding-left: 15px
 
 
-div {
-  padding-right: 30px;
-  height: 100%;
-  width: 100%;
-}
+
 
 .container {
   display: flex;
