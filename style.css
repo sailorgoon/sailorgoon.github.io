@@ -13,6 +13,10 @@ p {
   padding-right: 15px;
 }
 
+a {
+  color: #000000;
+}
+
 h1 {
   font-size: 60px;
 }
