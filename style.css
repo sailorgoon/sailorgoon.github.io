@@ -7,15 +7,13 @@ html, body {
 
 p {
   font-size: 16px
+  padding-left: 30px
 }
 
 ul {
   font-size: 16px
 }
 
-h5 {
-  padding-left: 30px;
-}
 
 div {
   padding-right: 30px;
