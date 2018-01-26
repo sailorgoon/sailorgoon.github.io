@@ -22,6 +22,7 @@ div {
 
 .about {
   background-color: Turquoise;
+   max-width: 25%;
   min-width: 200px;
   flex: 1;
 }
