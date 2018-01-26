@@ -23,6 +23,6 @@ div {
 .about {
   background-color: Turquoise;
    max-width: 25%;
-  min-width: 200px;
+  min-width: 300px;
   flex: 1;
 }
