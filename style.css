@@ -5,6 +5,9 @@ html, body {
   height: 100%;
 }
 
+h5 {
+  padding-left: 30px;
+}
 div {
   padding-right: 30px;
   height: 100%;
