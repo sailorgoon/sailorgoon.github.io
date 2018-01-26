@@ -11,7 +11,7 @@ p {
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 150px;
 }
 
 
@@ -27,7 +27,7 @@ h1 {
 }
 
 .about {
-  background-color: rgb(00,120,120);
+  background-color: rgb(00,120,00);
    max-width: 200px;
   min-width: 200px;
 }
