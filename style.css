@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  font-family: "arial", "helvetica", sans-serif;
+  font-family: "helvetica", sans-serif;
 }
 
 p {
@@ -19,7 +19,6 @@ a {
 
 h1 {
   font-size: 70px;
-  font: "helvetica";
   padding-bottom: 0px;
 }
 
