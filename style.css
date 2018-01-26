@@ -19,6 +19,12 @@ div {
   display: flex;
 }
 
+.whole {
+  background-image: url("bg1.jpg");
+  padding: 250px 0;
+	margin: 30px;
+}
+  
 .main {
   padding-left: 70px;
   min-width: 75%;
