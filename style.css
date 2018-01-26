@@ -30,9 +30,12 @@ h1 {
    width: 200px;
 }
 
+.contact-btn {
+ float: center; 
+}
+
 .contact-btn a {
   cursor: pointer;
-  text-align: center;
   padding: 5px 15px;
   border: 1px solid #000000;
   position: relative;
