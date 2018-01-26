@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  font-family: "arial narrow", "helvetica";
+  font-family: "arial", "helvetica", sans-serif;
 }
 
 p {
@@ -19,6 +19,7 @@ a {
 
 h1 {
   font-size: 60px;
+  font: "arial narrow";
 }
 
 
@@ -29,14 +30,13 @@ h1 {
   
 .main {
   position: relative; 
-  top: 150px; 
-  padding-right 200px
-  padding-left: 50px;
+  top: 75px; 
+  padding-left: 30px;
   min-width: 75%;
 }
 
 .about {
-  background-color: rgb(00,135,0);
+  background-color: rgb(00,135,135);
    width: 200px;
 }
 
