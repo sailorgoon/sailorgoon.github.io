@@ -21,8 +21,8 @@ div {
 }
 
 .about {
-  background-color: Blue;
+  background-color: purple;
    max-width: 25%;
-  min-width: 300px;
+  min-width: 200px;
   flex: 1;
 }
