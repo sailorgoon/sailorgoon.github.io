@@ -10,9 +10,7 @@ h5 {
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 15px;
 }
 
 div {
@@ -31,7 +29,7 @@ div {
 }
 
 .about {
-  background-color: red;
+  background-color: brown;
    max-width: 200px;
   min-width: 200px;
   flex: 1;
