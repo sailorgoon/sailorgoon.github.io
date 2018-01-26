@@ -30,13 +30,14 @@ h1 {
   
 .main {
   position: relative; 
-  top: 75px; 
+  top: 90px; 
   padding-left: 30px;
   min-width: 75%;
 }
 
 .about {
-  background-color: rgb(00,135,135);
+  background-color: rgb(00,135,0);
    width: 200px;
+  height:100%;
 }
 
