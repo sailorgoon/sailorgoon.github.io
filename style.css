@@ -1,5 +1,5 @@
 html, body {
-  font: 'Helvetica', sans-serif;
+  font: Helvetica, sans-serif;
   margin: 0;
   width: 100%;
   height: 100%;
@@ -14,10 +14,6 @@ h1 {
   font-size: 60px;
 }
 
-hr {
-  width: 75%;
-  float: left;
-}
 
 .container {
   display: flex;
@@ -30,6 +26,6 @@ hr {
 }
 
 .about {
-  background-color: rgb(00,120,120);
+  background-color: rgb(00,128,128);
    width: 200px;
 }
