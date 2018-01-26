@@ -26,18 +26,19 @@ h1 {
 }
 
 .about {
-  background-color: rgb(00,128,0);
+  background-color: rgb(100,128,0);
    width: 200px;
 }
 
 .contact-btn {
- float: center; 
+  float: right;
 }
 
 .contact-btn a {
   cursor: pointer;
-  padding: 5px 15px;
-  border: 1px solid #000000;
+  margin-right: 300px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
   position: relative;
 
 }
