@@ -13,7 +13,9 @@ h1 {
   font-size: 60px;
 }
 
-
+hr {
+  width: 75%;
+}
 
 .container {
   display: flex;
